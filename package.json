@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Lisa Geist",
+	"description": "I'm not sure what this is going to be. So, I'll have to change it later",
+	"keywords": [ "freecodecamp", "learning", "education" ],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
